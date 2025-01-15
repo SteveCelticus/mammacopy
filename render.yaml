@@ -16,4 +16,4 @@ services:
       - key: TMDB_KEY
         sync: false
       - key: PROXY
-        sync: false
+        value: [""]
